@@ -1,2 +1,2 @@
-# client
-A native client for Spark connect
+# Spark native connnector
+A native client for Spark connector.
